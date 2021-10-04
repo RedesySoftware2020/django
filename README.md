@@ -2,6 +2,8 @@
 
 Ejecutar:
 ```docker-compose up```
+```
+```
 DOCKER
 Para usar tienen que tener instalado  docker y docker-compose, ver tutorial https://www.hostinger.es/tutoriales/instalar-docker-centos7
 ```yum install docker-ce
