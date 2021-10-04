@@ -1,4 +1,4 @@
-# Django - Boilerplate para empezar proyectos nuevos con Django 
+#Boilerplate para empezar proyectos nuevos con Django y MySQL sobre Docker
 
 Ejecutar:
 ```docker-compose up```
